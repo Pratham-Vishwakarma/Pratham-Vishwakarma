@@ -10,25 +10,27 @@
 ---
 
 ## 👨🏻‍💻 About Me  
-<img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/main/Assets/illustration.png" width="320px" align="right">  
+<img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/main/Assets/illustration.png" width="200px" align="right">  
 
 ✨ Full-Stack Developer | Data Scientist | AR/VR Creator | Blockchain Developer  
 🌱 Currently building innovative projects in **AI, Web3, and XR**  
 📫 Reach me: [Schedule a Call](https://topmate.io/prathamvishwakarma) or [Email](mailto:pratham.vishwakarma125940@gmail.com)  
 💬 Ask me about: **Data Science, AR/VR, Web3, Cybersecurity**  
 ⚡ Fun fact: I love blending futuristic tech with creativity to craft **unique solutions**.  
-
----
-
+ 
 ## 🛠 Tech Stack & Certifications  
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-5382A1?logo=openjdk&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![Move](https://img.shields.io/badge/-Move-FF2D20?logo=move&logoColor=white&style=flat)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat)
 
@@ -36,11 +38,14 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcnui&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-F78900?logo=tensorflow&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 
 **Databases & Backend**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
@@ -55,10 +60,12 @@
 ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat)
-
----
 
 ## 🪶 Certification Badges  
 
@@ -74,7 +81,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 Stats & Social  
 
