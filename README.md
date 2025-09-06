@@ -92,13 +92,10 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="160" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Vishwakarma&theme=tokyonight&hide_border=true" height="160" />  
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="100" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Vishwakarma&theme=tokyonight&hide_border=true" height="100" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="160" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="100" />  
 </p>
 
 ---
@@ -106,8 +103,30 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://x.com/pratham1826"><img src="https://img.shields.io/twitter/follow/pratham1826?label=Follow%20Me&style=social"></a> &nbsp;
-  <img src="https://img.shields.io/github/followers/Pratham-Vishwakarma?style=social"> &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pratham-vishwakarma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="Follow on LinkedIn"/>
+  </a> &nbsp;
+
+  <!-- Twitter -->
+  <a href="https://x.com/pratham1826">
+    <img src="https://img.shields.io/twitter/follow/pratham1826?label=Follow%20Me&style=social" alt="Follow on Twitter"/>
+  </a> &nbsp;
+
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/1208492909524025458">
+    <img src="https://img.shields.io/badge/Discord-Follow-5865F2?style=social&logo=discord" alt="Follow on Discord"/>
+  </a> &nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/Pratham-Vishwakarma">
+    <img src="https://img.shields.io/github/followers/Pratham-Vishwakarma?style=social" alt="Follow on GitHub"/>
+  </a> &nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:pratham.vishwakarma125940@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=social&logo=gmail" alt="Email Me"/>
+  </a>
 </p>
 
 ---
