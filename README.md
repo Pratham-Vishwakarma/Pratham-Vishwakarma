@@ -108,8 +108,6 @@
 <p align="center">
   <a href="https://x.com/pratham1826"><img src="https://img.shields.io/twitter/follow/pratham1826?label=Follow%20Me&style=social"></a> &nbsp;
   <img src="https://img.shields.io/github/followers/Pratham-Vishwakarma?style=social"> &nbsp;
-  <a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
-
 </p>
 
 ---
