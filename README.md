@@ -122,11 +122,6 @@
   <a href="https://github.com/Pratham-Vishwakarma">
     <img src="https://img.shields.io/github/followers/Pratham-Vishwakarma?style=social" alt="Follow on GitHub"/>
   </a> &nbsp;
-
-  <!-- Gmail -->
-  <a href="mailto:pratham.vishwakarma125940@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=social&logo=gmail" alt="Email Me"/>
-  </a>
 </p>
 
 ---
