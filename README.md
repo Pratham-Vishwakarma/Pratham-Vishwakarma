@@ -56,26 +56,11 @@
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat">&nbsp;  
 
-**Certifications:**  
-<img src="https://img.shields.io/badge/-IBM%20Cybersecurity-006699?logo=ibm&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSRBOX%20Internship-0052CC?logo=google&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Data%20Science%20Specialization-1A73E8?logo=googlecloud&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-AR/VR%20Development-100000?logo=unity&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Web3%20Developer-121D33?logo=ethereum&logoColor=white&style=flat">&nbsp;
-
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
 </div>
-<!-- 
-<details>	
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/Pratham-Vishwakarma/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V GitHub Stats" />
-</a>
-</details>  -->
 
 <!--- Footer Stats - Adding the Social Media Status count-->
  <p align="left">  
