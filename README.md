@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-C++-00427E?logo=cplusplus&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-5382A1?logo=openjdk&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat">&nbsp;
@@ -38,7 +37,6 @@
 <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=tensorflow&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white&style=flat">&nbsp;  
 
 **Databases & Backend:**  
 <img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat">&nbsp;
@@ -50,21 +48,24 @@
 **Tools & Platforms:**  
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white&style=flat">&nbsp;  
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat">&nbsp;  
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6aecd4c5-5559-4695-983a-ff6d97cee480" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <a href="https://badgr.com/public/assertions/oxe7P240ScqDXFaOutu5ZA?identity__email=pratham.vishwakarma125940%40gmail.com">
+    <img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/refs/heads/main/Assets/Postman.png" width="100px" height="100px" />
+    <a href="https://badgr.com/public/assertions/Ere941NRTfi_wAJzfX1nlg?identity__email=pratham.vishwakarma125940%40gmail.com">
+    <img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/refs/heads/main/Assets/Pieces.png" width="100px" height="100px" />
+    <a href="https://www.credly.com/badges/6aecd4c5-5559-4695-983a-ff6d97cee480/public_url">
+    <img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/refs/heads/main/Assets/UnityCertifiedAssociateProgrammer.png" width="100px" height="100px" />
 </div>
 
 <!--- Footer Stats - Adding the Social Media Status count-->
- <p align="left">  
+ <p align="center">  
 <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a>
 <a href="https://x.com/pratham1826"><img src="https://img.shields.io/twitter/follow/pratham1826?label=Follow%20Me&style=social"></a>
 <a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
