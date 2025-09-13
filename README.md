@@ -12,10 +12,10 @@
 ## 👨🏻‍💻 About Me  
 <img src="https://raw.githubusercontent.com/Pratham-Vishwakarma/Pratham-Vishwakarma/main/Assets/illustration.png" width="200px" align="right">  
 
-✨ Full-Stack Developer | Data Scientist | AR/VR Creator | Blockchain Developer  
+✨ Full-Stack Developer | Data Scientist | AR/VR Creator | Blockchain Developer | Graphic Designer  
 🌱 Currently building innovative projects in **AI, Web3, and XR**  
 📫 Reach me: [Schedule a Call](https://topmate.io/prathamvishwakarma) or [Email](mailto:pratham.vishwakarma125940@gmail.com)  
-💬 Ask me about: **Web Developement, Data Science, AR/VR, Web3, Cybersecurity, etc.**  
+💬 Ask me about: **Web Developement, Data Science, AR/VR, Web3, Cybersecurity, Graphic Designing, etc.**  
 ⚡ Fun fact: I love blending futuristic tech with creativity to craft **unique solutions**.  
  
 ## 🛠 Tech Stack & Certifications  
@@ -23,16 +23,16 @@
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-2275B2?logo=CSS&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-5382A1?logo=openjdk&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-![Move](https://img.shields.io/badge/-Move-FF2D20?logo=move&logoColor=white&style=flat)  
+![Move](https://img.shields.io/badge/-Move-FF2D20?logo=solana&logoColor=white&style=flat)  
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -66,6 +66,9 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
 ## 🪶 Certification Badges  
 
@@ -107,17 +110,14 @@
   <a href="https://www.linkedin.com/in/pratham-vishwakarma/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="Follow on LinkedIn"/>
   </a> &nbsp;
-
   <!-- Twitter -->
   <a href="https://x.com/pratham1826">
     <img src="https://img.shields.io/twitter/follow/pratham1826?label=Follow%20Me&style=social" alt="Follow on Twitter"/>
   </a> &nbsp;
-
   <!-- Discord -->
   <a href="https://discordapp.com/users/1208492909524025458">
     <img src="https://img.shields.io/badge/Discord-Follow-5865F2?style=social&logo=discord" alt="Follow on Discord"/>
   </a> &nbsp;
-
   <!-- GitHub -->
   <a href="https://github.com/Pratham-Vishwakarma">
     <img src="https://img.shields.io/github/followers/Pratham-Vishwakarma?style=social" alt="Follow on GitHub"/>
