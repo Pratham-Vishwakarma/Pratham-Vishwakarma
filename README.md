@@ -96,7 +96,7 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="100" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Vishwakarma&theme=tokyonight&hide_border=true" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham-Vishwakarma&theme=tokyonight&hide_border=true" height="100" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="100" />  
 </p>
