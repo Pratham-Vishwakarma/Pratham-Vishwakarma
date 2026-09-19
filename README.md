@@ -103,14 +103,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Unity Certified Associate Programmer</b> •
-  <b>IBM Cybersecurity Fundamentals</b> •
-  <b>IBM Data Fundamentals</b> •
-  <b>IBM Project Management</b> •
-  <b>SAP Certified Back-End Developer – ABAP Cloud</b>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
